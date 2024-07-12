@@ -6,7 +6,7 @@ This Python GUI application allows users to convert various units across differe
 
 ## Features
 
-- **Categories**: Convert units for length, weight, temperature, volume, and more.
+- **Categories**: Convert units for length, weight, temperature, volume.
 - **User Interaction**: Input fields for entering values and dropdown menus for selecting units.
 - **Conversion Accuracy**: Results displayed with precision up to four decimal places.
 - **Error Handling**: Handles invalid inputs gracefully with error messages.
