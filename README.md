@@ -28,16 +28,16 @@ The application consists of multiple classes and methods for each conversion cat
 
 ## Screenshots
 
-![Screenshot 1](path/to/screenshot1.png)
+<img align="center" alt="coding" width="400" src="https://github.com/nrkkR/Python_Basic-MS-Paint-Clone/blob/main/ms%20paint%20clone%20py.png">
 *Screenshot 1: Length Conversion*
 
-![Screenshot 2](path/to/screenshot2.png)
+<img align="center" alt="coding" width="400" src="https://github.com/nrkkR/Python_Basic-MS-Paint-Clone/blob/main/ms%20paint%20clone%20py.png">
 *Screenshot 2: Weight Conversion*
 
-![Screenshot 2](path/to/screenshot2.png)
+<img align="center" alt="coding" width="400" src="https://github.com/nrkkR/Python_Basic-MS-Paint-Clone/blob/main/ms%20paint%20clone%20py.png">
 *Screenshot 3: Temperature Conversion*
 
-![Screenshot 2](path/to/screenshot2.png)
+<img align="center" alt="coding" width="400" src="https://github.com/nrkkR/Python_Basic-MS-Paint-Clone/blob/main/ms%20paint%20clone%20py.png">
 *Screenshot 4: Volume Conversion*
 
 ## Credits
