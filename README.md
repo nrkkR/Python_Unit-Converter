@@ -28,7 +28,7 @@ The application consists of multiple classes and methods for each conversion cat
 
 ## Screenshots
 
-<img align="center" alt="coding" width="400" src="https://github.com/nrkkR/Python_Basic-MS-Paint-Clone/blob/main/ms%20paint%20clone%20py.png">
+<img align="center" alt="coding" width="400" src="https://github.com/nrkkR/Python_Unit-Converter/blob/main/unit%20converter%20py%201.png">
 *Screenshot 1: Length Conversion*
 
 <img align="center" alt="coding" width="400" src="https://github.com/nrkkR/Python_Basic-MS-Paint-Clone/blob/main/ms%20paint%20clone%20py.png">
