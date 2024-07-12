@@ -31,14 +31,22 @@ The application consists of multiple classes and methods for each conversion cat
 <img align="center" alt="coding" width="400" src="https://github.com/nrkkR/Python_Unit-Converter/blob/main/unit%20converter%20py%201.png">
 *Screenshot 1: Length Conversion*
 
+---
+
 <img align="center" alt="coding" width="400" src="https://github.com/nrkkR/Python_Unit-Converter/blob/main/unit%20converter%20py%202.png">
 *Screenshot 2: Weight Conversion*
+
+---
 
 <img align="center" alt="coding" width="400" src="https://github.com/nrkkR/Python_Unit-Converter/blob/main/unit%20converter%20py%203.png">
 *Screenshot 3: Temperature Conversion*
 
-<img align="center" alt="coding" width="400" src="https://github.com/nrkkR/Python_Basic-MS-Paint-Clone/blob/main/ms%20paint%20clone%20py.png">
+---
+
+<img align="center" alt="coding" width="400" src="https://github.com/nrkkR/Python_Unit-Converter/blob/main/unit%20converter%20py%204.png">
 *Screenshot 4: Volume Conversion*
+
+---
 
 ## Credits
 
